@@ -1,7 +1,10 @@
 # jericverse-launcher
 JericVerse Launcher (JVL) releases
 
-Last updated 20221123.
+Last updated 20221218.
+
+Play Codehunter at: https://agent1.xyz/codes
+Play Moonlanders.game at: https://moonlanders.game
 
 Who built and created the initial project?
 Mr. J / sprion / Jeric T.
