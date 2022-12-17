@@ -1,7 +1,5 @@
-# jericverse-launcher
-JericVerse Launcher (JVL) releases
-
-Last updated 20221218.
+# JericVerse.com Launcher
+Last updated: 20221218.
 
 Play Codehunter at: 
 https://agent1.xyz/codes
