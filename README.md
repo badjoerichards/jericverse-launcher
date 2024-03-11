@@ -5,7 +5,11 @@ Play Codehunter at:
 https://agent1.xyz/codes
 
 Play Moonlanders.game at: 
-https://moonlanders.game
+https://moonlanders.net
+
+Play MoonPets/MoonCafe at: 
+https://moonpets.net
+
 
 Who built and created the initial project?
 Mr. J / sprion / Jeric T.
